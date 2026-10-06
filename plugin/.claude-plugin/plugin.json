@@ -1,14 +1,14 @@
 {
   "name": "daringbrain",
   "displayName": "Daring Brain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A spaced-repetition coach for learning by building: Claude teaches and grades while you write the code, and Daring Brain remembers every concept and schedules each review for right before you'd forget it.",
   "author": {
     "name": "Melvin Ram",
     "url": "https://daringbrain.com"
   },
   "homepage": "https://daringbrain.com",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "keywords": [
     "learning",
     "spaced-repetition",
@@ -16,5 +16,6 @@
     "education",
     "active-recall",
     "mcp"
-  ]
+  ],
+  "repository": "https://github.com/melvinram/daringbrain-plugin"
 }

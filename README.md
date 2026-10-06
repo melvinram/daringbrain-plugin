@@ -55,6 +55,6 @@ Your curriculum, review history, and learner profile are stored on daringbrain.c
 visible only to your account. You can delete your account and all of its data from
 the dashboard at any time.
 
----
+## License
 
-© Melvin Ram. All rights reserved.
+[MIT](LICENSE) © Melvin Ram
