@@ -1,0 +1,15 @@
+{
+  "name": "daringbrain",
+  "description": "Daring Brain — a spaced-repetition coach for learning by building.",
+  "owner": {
+    "name": "Melvin Ram",
+    "url": "https://daringbrain.com"
+  },
+  "plugins": [
+    {
+      "name": "daringbrain",
+      "source": "./plugin",
+      "description": "Claude teaches and grades while you write the code; Daring Brain remembers every concept and schedules each review."
+    }
+  ]
+}
